@@ -5,7 +5,7 @@
 
 - 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
 
-- Java
+- Java / SQL / Linux / Spring / Redis / MQ / ...
 - ✍️ [Blogger](https://blog.csdn.net/qq_31279701?spm=1019.2139.3001.5343)
 - 🏃 BasketBall
 - 🥋 Boxing
