@@ -7,15 +7,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Redick01)
 
-&nbsp; &nbsp; 
-&nbsp; &nbsp; 
-&nbsp; &nbsp; 
 
 > 个人CSDN主页
 
 [CSDN](https://blog.csdn.net/qq_31279701?spm=1019.2139.3001.5343)
 
-&nbsp; &nbsp; 
 &nbsp; &nbsp; 
 &nbsp; &nbsp; 
 
