@@ -7,9 +7,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Redick01)
 
-[CSDN Blog](https://blog.csdn.net/qq_31279701?spm=1019.2139.3001.5343)
+> 个人CSDN主页
+
+[](https://blog.csdn.net/qq_31279701?spm=1019.2139.3001.5343)
 
 
 > 个人微信
 
-![个人微信](https://redick01.github.io/redick.github.io/_media/my-qrcode.png)
+![](https://redick01.github.io/redick.github.io/_media/my-qrcode.png)
