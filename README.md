@@ -14,7 +14,8 @@
 
 ##  个人CSDN主页 [CSDN](https://blog.csdn.net/qq_31279701?spm=1019.2139.3001.5343)
 
-<div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+
 
 
 
