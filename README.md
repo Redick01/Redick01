@@ -9,7 +9,7 @@
 
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /></div>
 
-<span > <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white" /> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></span>
+<span > <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white" /> 
 
 
 
