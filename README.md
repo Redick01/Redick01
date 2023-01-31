@@ -9,7 +9,6 @@
 
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /></div>
 
-<span > <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white" /> 
 
 
 
