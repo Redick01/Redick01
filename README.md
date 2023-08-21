@@ -1,5 +1,5 @@
 
-##  👋Yoo, I'm Redick01 .👋
+##  Yoo, I'm Redick01 .
 
 
 
